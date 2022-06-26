@@ -10,4 +10,6 @@ authors:
 title: "Supplementary Data: A systematic review of artificial intelligence prediction techniques for stock market"
 doi: 10.5281/zenodo.6750696
 date-released: 2022-06-26
-url: "https://github.com/chandraveshchaudhari/systematic-review-ai-stock-market-prediction"  
+url: "https://doi.org/10.5281/zenodo.6750696"  
+publisher: "Zenodo"
+version: 1.0.1
