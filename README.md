@@ -7,8 +7,18 @@
 
 > Chaudhari, Chandravesh, & Purswani, Geetanjali. (2022). Supplementary Data: A systematic review of artificial intelligence prediction techniques for stock market (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.6750696
 
+
+## Introduction
 This repository contains Programming code, citation data, reviews and input variables spreadsheets of systematic review paper:    
-`A systematic review of artificial intelligence prediction techniques for stock market` 
+`A Systematic Review Of Artificial Intelligence Prediction Systems For The Stock Market` 
 
 ### Authors
-Chandravesh chaudhari, Doctoral candidate at CHRIST (Deemed to be University), Bangalore, India under supervision of Dr. Geetanjali purswani.
+<img align="left" width="231.95" height="75" src="https://github.com/chandraveshchaudhari/personal-information/blob/1afa9ad052ab9666e6a1a3854464a77ccab68438/images/christ.png">
+
+[Chandravesh chaudhari][chandravesh linkedin], Doctoral candidate at [CHRIST (Deemed to be University), Bangalore, India][christ university website] under supervision of [Dr. Geetanjali purswani][geetanjali linkedin].
+
+<br/>
+
+[chandravesh linkedin]: https://www.linkedin.com/in/chandravesh-chaudhari "chandravesh linkedin profile"
+[geetanjali linkedin]: https://www.linkedin.com/in/dr-geetanjali-purswani-546336b8 "geetanjali linkedin profile"
+[christ university website]: https://christuniversity.in/ "website"
